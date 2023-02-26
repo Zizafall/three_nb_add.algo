@@ -1,0 +1,16 @@
+exo: Ecrireun algo qui demande le nom et lage d'un etudiant a luniversité et afficher "bonjour...,tu as .. ans et bienvenue à l'université" en remplacant les par ,respestivement le nom et lage 
+
+ALGORITHM phrase
+VAR
+    nom:chaine de caractére
+    AGE: entier
+BEGIN
+Ecrire("veuillez écrire le nom")
+lire(nom)
+Ecrire("veuillez Ecrire  votre age")
+lire(age)
+ Ecrire("bonjour",nom,tu as",age et bienvienue a luniversté,)
+
+
+
+END
